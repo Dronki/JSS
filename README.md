@@ -6,4 +6,4 @@ Bygger rätt så mycket på Javascript, och rätt så mycket regex.
 
 Språk och operander
 ---
-Snart så kommer det komma en jättefin lista med språk-syntax och operander.
+[Lista över språk och operander, samt syntax.](språk.md)
